@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+[class*="container"]{
+
+}
+
+ul.row{
+    padding-top:50px;
+    list-style-type:none;
+    padding-left: 0px;
+    margin-left: 0PX;
+}
+MAIN{
+    padding-top: 50px;
+}
+img{
+    padding:10px;
+}
